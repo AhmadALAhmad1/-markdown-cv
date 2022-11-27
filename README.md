@@ -1,9 +1,9 @@
-#Ahmad AL Ahmad
-##Web Developer
-######Email:ahmad.l.ahmadd1998@gmail.com
-######phone:71378244
+# Ahmad AL Ahmad
+## Web Developer
+###### Email:ahmad.l.ahmadd1998@gmail.com
+###### phone:71378244
 ---
-##Education
+## Education
 * From 2019 to 2022
   ##### BA in Management Information System
   Lebanese University Hadath
@@ -16,17 +16,17 @@
   Zahia Salman public school Beirut
 
 ---
-##Skills
+## Skills
 * Html,CSS
 * OOP
 * C++
 ---
-##Computer Skills
+## Computer Skills
 * Word
 * Excel 
 * Powerpoint
 ---
-##Work Experince
+## Work Experince
 2022 
 ##### Bookshop Website 
 * Gain more experince in HTML,CSS,JS
