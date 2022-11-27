@@ -1,3 +1,4 @@
+<img src="profile.jpg" alt="ahmad's photo" style="height: 120px; width:100px;"/>
 # Ahmad AL Ahmad
 ## Web Developer
 ###### Email:ahmad.l.ahmadd1998@gmail.com
