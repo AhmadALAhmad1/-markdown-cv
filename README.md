@@ -45,6 +45,8 @@ Linkedin: Ahmad.Al.Ahmad
 
 ---
 ### Interests
+* Technology
+* gym
 
 
 
