@@ -1,4 +1,4 @@
-![MY PIC](https://github.com/AhmadLAhmad/-markdown-cv/blob/main/profile.jpg)
+<img src="profile1.jpg" alt="ahmad's photo" style="height: 120px; width:100px;"/>
 
 
 
