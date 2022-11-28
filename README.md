@@ -1,4 +1,7 @@
-<img src="profile.jpg" alt="ahmad's photo" style="height: 120px; width:100px;"/>
+![MY PIC](https://github.com/AhmadLAhmad/-markdown-cv/blob/main/profile.jpg)
+
+
+
 
 # Ahmad AL Ahmad
 ## Web Developer
