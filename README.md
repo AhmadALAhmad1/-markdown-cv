@@ -1,4 +1,4 @@
-<img src="profile1.jpg" alt="ahmad's photo" style="height: 120px; width:100px;"/>
+<img src="profilea.jpg" alt="ahmad's photo" style="height: 120px; width:100px;"/>
 
 
 
